@@ -1,4 +1,4 @@
-# Anotações sobre ![Git](/Anotações/Git/assets/git.png) e ![GitHub](/Anotações/Git/assets/gitHub.pn)
+# Anotações sobre ![Git](/Anotacoes/Git/assets/git.png) e ![GitHub](/Anotacoes/Git/assets/gitHub.pn)
 
 ## O que é Git?
 
@@ -9,9 +9,9 @@ No contexto de desenvolvimento, ele é utilizado para distribuição de versões
 Com ele você pode ter varios desenvovedores mexendo no mesmo código, sem ter dificuldades de juntar as "partes".
 
 ## Comandos inciais:
-Antes de dar início no uso do git, faz-se necessário o [download do git](https://git-scm.com/downloads).
-Faça download do software, após instalado criaremos uma pasta com nome estudos e dentro dela, com botão direito escolheremos bash here.
-Abrirá um terminal bash, e dentro dele iremos iniciar um repositório.
+Antes de dar início no uso dos comandos, faz-se necessário o [download do git](https://git-scm.com/downloads).
+Faça download do software e após instalado criaremos uma pasta com nome "estudos" e dentro dela, com botão direito escolheremos bash here.
+Este comando abrirá um terminal bash, e dentro dele iremos iniciar um repositório.
 
 ### Conheça alguns comandos
 **git init** - é um comando único usado na configuração inicial do git
