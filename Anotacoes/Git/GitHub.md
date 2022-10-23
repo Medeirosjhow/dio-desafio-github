@@ -1,4 +1,4 @@
-# Anotações sobre ![Git](/Anotacoes/assets/git.png) e ![GitHub](/Anotacoes/assets/gitHub.png)
+# Anotações sobre ![Git](/Anotacoes/assets/git.png) e ![GitHub](/Anotacoes/assets/github.png)
 
 ## O que é Git?
 
